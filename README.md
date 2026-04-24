@@ -288,7 +288,7 @@ Example: `sf360/audio/MI_vs_CSK_post_match_script_Arjun_Mehta_23042026.mp3`
 
 | Item | Priority | Notes |
 |---|---|---|
-| Activate Kabir, Neha, Coach Vikram voice IDs | High | Email jignesh@sportsfan360.com |
+| Activate Kabir, Neha, Coach Vikram voice IDs | High | Voice ID to be generated in Genvr |
 | Test email notification (mailer) | High | Enable MAILER_ENABLED = True when ready |
 | Riya's persona prompt in script_agent (if Groq re-enabled) | Low | Brief exists |
 | Scheduled triggers (10AM preview, post-toss, post-match) | Medium | Not built |
